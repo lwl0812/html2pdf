@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "html2canvas": "^1.0.0-rc.3",
+    "jspdf": "^1.5.3",
     "vue": "^2.6.10"
   },
   "devDependencies": {
