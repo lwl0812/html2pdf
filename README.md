@@ -1,5 +1,9 @@
 # demo
 
+使用 html2canvas 和 jspdf 插件，将目标 html 生成到 pdf 并下载。
+
+![mp4](./src/assets/images/html2pdf.gif)
+
 ## Project setup
 ```
 yarn install
