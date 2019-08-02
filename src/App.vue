@@ -1,18 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <html2pdf-demo></html2pdf-demo>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import html2pdfDemo from './components/html2pdf';
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
-  }
+    html2pdfDemo,
+  },
 }
 </script>
 
